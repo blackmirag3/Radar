@@ -8,6 +8,4 @@ The following are visualisations of concepts from "EW 101: A First Course in Ele
 - Radar Scan Pattern
 - Antenna Gain Pattern
 
-
-<img align="left" height="200" src="https://github.com/blackmirag3/Radar/assets/78994143/36a2b8de-5eb3-4f34-a9ec-aed5f2ba8eb1">
-<img align="" height="240" src="https://github.com/blackmirag3/Radar/assets/78994143/7f7418b4-56cb-471e-9adc-66500c8732da">
+<img align="" height="450" src="https://github.com/blackmirag3/Radar/assets/78994143/7f7418b4-56cb-471e-9adc-66500c8732da">
