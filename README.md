@@ -4,7 +4,7 @@ This is a hobbyist project where I try to understand Radar and implement ML (dee
 This repo contains simple radar simulations and CNN model for signal modulation classification.
 
 ## Convolutional Neural Network
-The following are CNN models trained on DeepRadar2022 dataset on kaggle.
+The notebook contains some CNN models trained on DeepRadar2022 dataset on kaggle.
 
 The samples include 23 different modulation types with a -10 to 10db SNR applied.
 
